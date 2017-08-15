@@ -103,5 +103,5 @@
     "postgit": "clear && git status",
     "release": "npm run git && npm publish"
   },
-  "version": "0.0.41"
+  "version": "0.0.5"
 }
